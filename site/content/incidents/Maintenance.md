@@ -1,7 +1,7 @@
 # default attributes for an incident.
 
 title = "Maintenance"
-date = 18-1-12T6:51:47Z
+date = 18-1-12T15:15:47Z
 
 # severity: represents the impact of
 # your system due to the current incident.
@@ -28,4 +28,4 @@ affectedsystems = ["Website"]
 
 resolved = false
 +++
-**Maintenance** Website is still being worked on, Website is Accessible During Maintenance!
+**Maintenance** Website is still being worked on, Website is Accessible During Maintenance
